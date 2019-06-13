@@ -11,3 +11,7 @@ This project presents automatic control system for growing microgreens indoors. 
 
 # Download
 >/home/pi/tl01
+
+# Related programs
+> fritzing
+> tableau
