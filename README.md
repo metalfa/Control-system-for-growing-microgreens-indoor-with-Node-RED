@@ -12,6 +12,7 @@ This project presents automatic control system for growing microgreens indoors. 
 # install
 >https://nodejs.org/en
 >>https://nodered.org/docs/hardware/raspberrypi
+>>>https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-debian-9
 
 # Download
 >/home/pi/tl01
