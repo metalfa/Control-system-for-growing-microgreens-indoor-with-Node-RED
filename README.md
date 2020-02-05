@@ -13,8 +13,8 @@
 >>>https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-debian-9
 
 # Download
-cd /home/pi/tl01
-git clone https://github.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED.git
+>cd /home/pi/tl01
+>git clone https://github.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED.git
 # Related programs
 ### Fritzing
 ### Tableau
