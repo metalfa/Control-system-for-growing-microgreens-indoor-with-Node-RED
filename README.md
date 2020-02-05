@@ -14,7 +14,7 @@
 
 # Download
 >cd /home/pi/tl01
->git clone https://github.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED.git
+
 # Related programs
 ### Fritzing
 ### Tableau
