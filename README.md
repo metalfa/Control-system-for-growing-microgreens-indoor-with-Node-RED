@@ -1,5 +1,5 @@
 # Project Title: Control system for growing indoor microgreens 
-<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED/master/ML%20basic.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED/master/Sys%20all.png"></p>
 
 ### By 
 ### K. Sutthipong, N. Natapong, S. Peerapong   	
@@ -23,4 +23,4 @@
 ### RealVNC®
 
 # ML Basic
-<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED/master/Sys%20all.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED/master/ML%20basic.jpg"></p>
