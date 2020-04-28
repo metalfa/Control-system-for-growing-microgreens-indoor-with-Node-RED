@@ -1,5 +1,6 @@
 # Project Title: Control system for growing indoor microgreens 
-<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Certificate_NatapongNitarach/master/Certificate/png/iot4_ConfirmationOfParticipation-1.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED/blob/master/Sys%20all.png"></p>
+
 ### By 
 ### K. Sutthipong, N. Natapong, S. Peerapong   	
 ### Department of Electrical and Electronics Engineering, Faculty of Engineering Ubon Ratchathani University
