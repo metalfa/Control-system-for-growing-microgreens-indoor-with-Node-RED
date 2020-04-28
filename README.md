@@ -22,5 +22,5 @@
 ### Tableau
 ### RealVNC®
 
-# ML Basic
+# Flow ML Basic
 <p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Control-system-for-growing-microgreens-indoor-by-Node-RED/master/ML%20basic.jpg"></p>
